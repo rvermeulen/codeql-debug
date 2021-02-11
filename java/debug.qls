@@ -1,0 +1,5 @@
+- description: Untrusted data to external API to determine data flow coverage
+- qlpack: codeql-java
+- include:
+    id: java/untrusted-data-to-external-api
+    
